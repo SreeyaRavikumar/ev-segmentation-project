@@ -4,7 +4,7 @@
 This project aims to analyze the Electric Vehicle (EV) market in India using customer and vehicle-level segmentation. Using real-world government and survey data, we performed clustering, visualizations, and Fermi estimations to understand adoption readiness and vehicle demand.
 
 ---
-
+<pre>
 ## 📁 Project Structure
 
 ev-segmentation-project/
@@ -14,7 +14,7 @@ ev-segmentation-project/
 ├── README.md # Project overview (this file)
 ├── requirements.txt # Python packages used
 └── .gitignore # Files/folders ignored by Git
-
+</pre>
 
 ---
 
@@ -61,7 +61,7 @@ numpy
 matplotlib
 seaborn
 sklearn
-
+```
 🤝 Contact
 For queries or collaboration:
 
