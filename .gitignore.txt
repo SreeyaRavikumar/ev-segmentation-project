@@ -1,0 +1,26 @@
+
+---
+
+## ✅ `.gitignore`
+
+```gitignore
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Mac System Files
+.DS_Store
+
+# VS Code Files
+.vscode/
+
+# Environment Files
+.env
+.venv
+*.env
+
+# Plot images (optional to ignore if not saving manually)
+# figures/
